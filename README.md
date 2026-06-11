@@ -12,6 +12,8 @@ I want to pursue a career in Computer Vision/Machine Learning, and I believe thi
 
 For more about the project, check out the final report inside this GitHub repo. 
 
+To watch me present on this project, click here: 
+
 ---
 
 ## Project Structure
@@ -19,10 +21,12 @@ For more about the project, check out the final report inside this GitHub repo.
 ```
 flickr8k-image-captioning/
 │
-├── archive/                                # Dataset
 ├── PROJECT_REPORT.ipynb                    # Project report
 ├── STAT362_Final_Project_Description.pdf   # Project requirements
-├── eda.ipynb                               # Exploratory data analysis
+├── 0_eda.ipynb                             # Exploratory data analysis
+├── 1-retrieval_baseline.ipynb              # ResNet-50 + KNN
+├── 2-cnn_lstm_encoder_decoder.ipynb        # ResNet-50 + LSTM
+├── 3-git_transformer.ipynb                 # microsoft/git-base
 ├── archive/                                # The dataset
 │   ├── Images/                             # 8,091 images (all JPEG and RGB)
 │   ├── captions.txt                        # Five human-written captions per image
