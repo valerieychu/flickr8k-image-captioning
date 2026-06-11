@@ -12,7 +12,7 @@ I want to pursue a career in Computer Vision/Machine Learning, and I believe thi
 
 For more about the project, check out the final report inside this GitHub repo. 
 
-To watch me present on this project, click here: 
+To watch me present on this project, click [here](https://drive.google.com/file/d/1uhJ0-SOkdzfJ-dQbpyT9DPUZgAFJkIik/view?usp=sharing)
 
 ---
 
